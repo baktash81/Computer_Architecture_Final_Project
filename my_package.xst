@@ -1,0 +1,5 @@
+set -tmpdir "D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/xst/projnav.tmp"
+set -xsthdpdir "D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/xst"
+elaborate
+-ifn my_package.prj
+-ifmt mixed

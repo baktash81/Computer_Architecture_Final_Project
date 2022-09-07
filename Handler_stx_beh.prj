@@ -1,0 +1,8 @@
+vhdl isim_temp "packages.vhd"
+vhdl isim_temp "TLB.vhd"
+vhdl isim_temp "Processor.vhd"
+vhdl isim_temp "Page_Table.vhd"
+vhdl isim_temp "Memory.vhd"
+vhdl isim_temp "Hard_Disk.vhd"
+vhdl isim_temp "Cache.vhd"
+vhdl isim_temp "Handler.vhd"

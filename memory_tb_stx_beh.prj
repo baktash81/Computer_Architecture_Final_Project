@@ -1,0 +1,3 @@
+vhdl isim_temp "packages.vhd"
+vhdl isim_temp "Memory.vhd"
+vhdl isim_temp "memory_tb.vhd"

@@ -1,0 +1,41 @@
+V3 18
+FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Hard_Disk.vhd 2022/07/09.23:31:05 P.20131013
+EN work/Hard_Disk 1657393303 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Hard_Disk.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PH work/my_package 1657393302
+AR work/Hard_Disk/Behavioral 1657393304 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Hard_Disk.vhd \
+      EN work/Hard_Disk 1657393303
+FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/packages.vhd 2022/07/09.23:07:22 P.20131013
+PH work/my_package 1657393302 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/packages.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Processor.vhd 2022/07/07.09:58:45 P.20131013
+EN work/Processor 0 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Processor.vhd \
+      PB ieee/std_logic_1164 1381692176 PB std/TEXTIO 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 PB ieee/MATH_REAL 1381692182
+AR work/Processor/Behavioral 0 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Processor.vhd \
+      EN work/Processor 0
+FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/random.vhd 2022/07/07.09:55:36 P.20131013
+PH work/random 0 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/random.vhd
+PB work/random 0 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/random.vhd \
+      PH work/random 0 PB ieee/MATH_REAL 1381692182 PB ieee/NUMERIC_BIT 1381692180 \
+      LB extras PH extras/timing_ops 0
+FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/sizing.vhd 2022/07/07.09:57:35 P.20131013
+PH work/sizing 1657171670 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/sizing.vhd
+PB work/sizing 1657171671 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/sizing.vhd \
+      PH work/sizing 1657171670
+FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/timing.vhd 2022/07/07.09:58:26 P.20131013
+PH work/timing_ops 0 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/timing.vhd \
+      PB ieee/std_logic_1164 1381692176
+PB work/timing_ops 0 \
+      FL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/timing.vhd \
+      PH work/timing_ops 0 LB extras PH extras/sizing 0

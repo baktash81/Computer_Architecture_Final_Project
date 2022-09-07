@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="1015" delta="old" >&quot;<arg fmt="%s" index="1">D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Processor.vhd</arg>&quot; Line <arg fmt="%d" index="2">251</arg>. Wait for statement unsupported.
+</msg>
+
+</messages>
+

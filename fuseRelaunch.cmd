@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Full_TLB_isim_beh.exe" -prj "D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Full_TLB_beh.prj" "work.Full_TLB" 

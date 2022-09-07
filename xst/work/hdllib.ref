@@ -1,0 +1,8 @@
+PH sizing NULL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/sizing.vhd sub00/vhpl01 1657171670
+EN hard_disk NULL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Hard_Disk.vhd sub00/vhpl06 1657393303
+PB sizing sizing D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/sizing.vhd sub00/vhpl02 1657171671
+EN processor NULL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Processor.vhd sub00/vhpl03 1657171779
+PH random NULL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/random.vhd sub00/vhpl00 1657171539
+EN packages NULL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/packages.vhd sub00/vhpl04 1657391835
+PH my_package NULL D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/packages.vhd sub00/vhpl05 1657393302
+AR hard_disk behavioral D:/CE_IUST/Term_4/Computer_Architecture/Final_Project/Hard_Disk.vhd sub00/vhpl07 1657393304
